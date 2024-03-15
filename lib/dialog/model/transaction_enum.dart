@@ -1,0 +1,4 @@
+enum TransactionEnum {
+  paid,
+  unPaid,
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982680893567",
+    "project_id": "profi-abbd6",
+    "storage_bucket": "profi-abbd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982680893567:android:fa41a9e161b8efc236e74a",
+        "android_client_info": {
+          "package_name": "com.wings.profi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-EumOH-r1t-HNTe9NWmBRmPp9R7Uz-i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

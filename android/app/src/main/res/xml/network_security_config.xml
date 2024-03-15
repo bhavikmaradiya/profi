@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+    <domain-config cleartextTrafficPermitted="true">
+        <!-- Include domains that you want to allow non-secure connections to -->
+        <domain includeSubdomains="true">worldtimeapi.org</domain>
+    </domain-config>
+</network-security-config>

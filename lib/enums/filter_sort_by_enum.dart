@@ -1,0 +1,4 @@
+enum FilterSortByEnum {
+  sortByProjectCode,
+  sortByProjectName,
+}
