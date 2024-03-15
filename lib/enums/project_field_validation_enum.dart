@@ -1,0 +1,4 @@
+enum ProjectFieldValidationEnum {
+  projectNo,
+  projectName,
+}

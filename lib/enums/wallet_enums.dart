@@ -1,0 +1,4 @@
+enum WalletEnums {
+  walletA,
+  walletB
+}
